@@ -1,4 +1,3 @@
 <?php
-  Database _setting
-  DB
+  mysql_connect("root","","localhost");
 ?>
